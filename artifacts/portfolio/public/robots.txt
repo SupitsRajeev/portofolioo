@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /_next
+Disallow: /api
+
+# Sitemaps
+Sitemap: https://yourportfolio.com/sitemap.xml
+Sitemap: https://yourportfolio.com/sitemap-blog.xml
+
+# Crawl delays
+Crawl-delay: 1

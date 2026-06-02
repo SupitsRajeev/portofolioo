@@ -1,0 +1,17 @@
+{
+  "name": "3d-portfolio",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "cd artifacts/portfolio && npm run dev",
+    "build": "cd artifacts/portfolio && npm run build",
+    "serve": "cd artifacts/portfolio && npm run serve",
+    "typecheck": "cd artifacts/portfolio && npm run typecheck"
+  },
+  "private": true,
+  "devDependencies": {
+    "typescript": "~5.9.2",
+    "prettier": "^3.8.1"
+  }
+}
